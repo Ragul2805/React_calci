@@ -226,8 +226,9 @@ body {
 
 ## OUTPUT
 
-![alt text](<Screenshot 2026-11-25 135212.png>)
+<img width="1221" height="758" alt="Screenshot 2026-11-25 135212" src="https://github.com/user-attachments/assets/7bd99847-6aa3-4033-a862-6fef546bf9a2" />
 
-![alt text](<Screenshot 2026-11-25 135232.png>)
+<img width="1207" height="735" alt="Screenshot 2026-11-25 135232" src="https://github.com/user-attachments/assets/f27e98f5-3839-47c5-bab0-a5b11b46eaf5" />
+
 ## RESULT
 The program for developing a simple calculator in React.js is executed successfully.
